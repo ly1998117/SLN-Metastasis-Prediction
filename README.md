@@ -6,7 +6,7 @@ This project investigates the integration of MRI-derived intratumoral heterogene
 
 - Subregion-based **Intratumoral Heterogeneity (ITH)** feature extraction.
 - Multimodal integration: radiomics + clinical + RNA-seq data.
-- Robust feature selection: `ttest`, `Spearman`, `MRMR`, `LASSO`.
+- Robust feature selection: `ttest`, `Spearman`, `LASSO`.
 - Multiple predictor variants: clinical-only, radiomics-only, combined models.
 - SHAP explainability and statistical evaluation (DeLong test, ROC, calibration).
 - Internal-external validation framework with reproducibility ensured.
